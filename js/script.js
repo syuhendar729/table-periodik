@@ -20,7 +20,6 @@ $.getJSON("PeriodicTableJSON.json", function(data) {
                 }; border-color: ${colorMap[element.category]}" 
                 data-toggle="modal" data-target="#elementModal" data-id="${element.number}">
                 ${element.symbol}
-                <span>${element.ypos}</span>
             </div>
             `
         );
