@@ -15,8 +15,8 @@ function templateGolA(gol, no, x) {
                             <th>Name</th>
                             <th>Number</th>
                             <th>Periode</th>
-                            <th>Sifat</th>
-                            <th>Kategori</th>
+                            <th>Phase</th>
+                            <th>Category</th>
                             <th>Shells</th>
                         </tr>
                     </thead>
@@ -68,8 +68,8 @@ function templateGolB(gol, no, x) {
                         <th>Name</th>
                         <th>Number</th>
                         <th>Periode</th>
-                        <th>Sifat</th>
-                        <th>Kategori</th>
+                        <th>Phase</th>
+                        <th>Category</th>
                         <th>Shells</th>
                     </tr>
                 </thead>
